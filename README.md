@@ -144,10 +144,3 @@ Eğer projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebil
 ```
 
 ---
-
-
-4️⃣ **Profesyonel Yapı** – Açık kaynak topluluğu standartlarına uygun, temiz bir belge oluşturuldu.  
-
----
-
-Bu güncellenmiş **`README.md`** dosyasını projenize ekleyerek, projenizi daha açıklayıcı ve profesyonel hale getirebilirsiniz. 🚀📸
